@@ -16,7 +16,6 @@
 //  The github tests will test the output of your code.
 //  If it passes, you will see a green check mark at the top of the repository.
 //
-
 module simple(
 	      input [2:0]  a,
 	      output reg [6:0] result);
